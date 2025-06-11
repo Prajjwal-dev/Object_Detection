@@ -13,13 +13,6 @@ Real-time object detection using [YOLOv8](https://github.com/ultralytics/ultraly
 
 ---
 
-## 🖥️ Demo
-
-<img src="https://user-images.githubusercontent.com/placeholder/demo.gif" width="600" alt="Demo">
-
-*(Add your demo gif or image here)*
-
----
 
 ## 🔧 Requirements
 
